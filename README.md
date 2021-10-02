@@ -5,7 +5,7 @@ Although these are my personal settings and configs you are free to use/modify t
 ## Manual Install
 Simply clone
 
-	`git clone https://github.com/archead/dotfiles.git`
+	git clone https://github.com/archead/dotfiles.git
 
 and copy whatever configs you need by hand
 
@@ -15,20 +15,20 @@ Install Stow
  
 **Arch:**
 
-	`sudo pacman -S stow`
+	sudo pacman -S stow
 
 **Mac:**
 
-	`brew install stow`
+	brew install stow
 
 **Ubuntu/Debian:**
 
-	`sudo apt install stow`
+	sudo apt install stow
 	
  Clone repo to home directory
  
- 	`git clone https://github.com/archead/dotfiles.git`
+ 	git clone https://github.com/archead/dotfiles.git
 	 
  Run
  
- 	`cd ~/dotfiles && rm -rf .git README.md && stow *`
+ 	cd ~/dotfiles && rm -rf .git README.md && stow *
