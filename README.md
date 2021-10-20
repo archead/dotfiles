@@ -11,6 +11,10 @@ and copy whatever configs you need by hand
 
 ## GNU Stow
 
+### NOTE: Dependencies
+
+The vimrc requires [vim-plug](https://github.com/junegunn/vim-plug) to work propertly.
+
 Install Stow
  
 **Arch:**
