@@ -15,7 +15,7 @@ and copy whatever configs you need by hand
 
 The vimrc requires [vim-plug](https://github.com/junegunn/vim-plug) to work propertly.
 
-1. Install Stow
+Install Stow
  
 **Arch:**
 
@@ -29,10 +29,10 @@ The vimrc requires [vim-plug](https://github.com/junegunn/vim-plug) to work prop
 
 	sudo apt install stow
 	
- 2. Clone repo to home directory
+ Clone repo to home directory
  
  	git clone https://github.com/archead/dotfiles.git
 	 
- 3. Run
+ Run
  
  	cd ~/dotfiles && rm -rf .git README.md && stow *
